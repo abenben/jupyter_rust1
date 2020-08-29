@@ -3,9 +3,6 @@
 ``` bash
 $ pip install jupyter
 $ pip install cython
-$ pip install rustdef
-```
-
-```
 $ pip install numba
+$ pip install rustdef
 ```
